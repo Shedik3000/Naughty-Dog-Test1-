@@ -1,0 +1,15 @@
+body {background-image: url(ctr-bg2.jpg); margin:0px; background-position:center; background-size:50%}
+.b1 {background-color:#16151a; padding:8px; margin:0px auto; text-align:center; position:fixed; top:0px; left:0px; width:100%; font-family:Comic Sans MS;}
+.content {width:1000px; background-color:white; padding:16px; margin:0px auto; text-align:center; font-family:Comic Sans MS; background:rgba(0, 0, 0, 0.7);}
+p {text-align:justify; color:#cdcdcd;}
+.titlepage {color:#cdcdcd;}
+
+.img0 {margin:0px auto; text-align:center;}
+
+a.knopselected {border-botton:4px solid black; padding:12px; color:white; text-decoration:none}
+a.knop {border-botton:4px solid white; padding:12px; color:red; text-decoration:none;}
+a.knop:hover {background-color:white}
+
+.copyright {background-color:#16151a; padding:8px; margin:0px auto; text-align:center; position:fixed; bottom:0px; left:0px; width:100%; color:red}
+.testp {width:1000px; background-color:white; padding:16px; margin:0px auto; text-align:center; text-align:justify; color:#cdcdcd; background:rgba(0, 0, 0, 0.7); 
+font-family:Comic Sans MS;}
